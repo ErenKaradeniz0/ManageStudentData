@@ -1,4 +1,3 @@
-package SecondTermWeek8;
 //Manage class
 import java.util.Scanner;
 
