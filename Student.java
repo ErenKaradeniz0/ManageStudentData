@@ -1,4 +1,3 @@
-package SecondTermWeek8;
 //Student class
 public class Student {
 
