@@ -1,4 +1,3 @@
-package SecondTermWeek8;
 //GraduateStudent class
 public class GraduateStudent extends Student {
 
