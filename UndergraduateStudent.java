@@ -1,4 +1,3 @@
-package SecondTermWeek8;
 //UndergraduateStudent class
 class UndergraduateStudent extends Student {
     public void computeCourseGrade() {
